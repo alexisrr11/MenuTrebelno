@@ -43,7 +43,7 @@ body.dark-mode footer {
 }
 
 #toggle-dark-mode {
-  position: fixed;
+  position: absolute;
   top: 1rem;
   right: 1rem;
   padding: 8px;
