@@ -77,6 +77,11 @@ h2 {
   font-weight: normal;
 }
 
+header h3 {
+  padding-top: 20px;
+  text-decoration: underline;
+}
+
 .categoria {
   margin-bottom: 2rem;
 }
